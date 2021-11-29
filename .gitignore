@@ -3,3 +3,4 @@
 .settings
 *.pyc
 src/__pycache__
+*.code-workspace
